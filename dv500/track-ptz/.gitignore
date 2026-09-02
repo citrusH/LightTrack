@@ -1,0 +1,28 @@
+
+*
+
+!*/
+
+# 目录
+bak
+fxBuild
+fxEnv/*
+!fxEnv/fxAddEnv.sh
+
+# 文件
+!.gitignore
+!.gitmodules
+
+!*.py
+!*.md
+!*.json
+!*.yaml
+!*.yml
+!*.conf
+!*.sh
+!*.cpp
+!*.c
+!*.h
+!*.hpp
+!*.txt
+

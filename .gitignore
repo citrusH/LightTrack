@@ -1,0 +1,22 @@
+# Generated build output
+**/fxBuild/
+**/build/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/Makefile
+**/*.o
+**/*.a
+**/*.so
+
+# Device SDKs, deployed models and generated runtime assets
+**/fxEnv/
+**/fxInc/
+**/*.om
+
+# Runtime diagnostics and local editor state
+**/*.log
+**/.vscode/
+**/.claude/
+**/__pycache__/
+**/*.pyc
